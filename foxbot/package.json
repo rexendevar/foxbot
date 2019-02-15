@@ -1,0 +1,18 @@
+{
+  "name": "ToothpasteFoxbot",
+  "version": "0.3.0",
+  "description": "Built to replace Dyno",
+  "main": "bot.js",
+  "author": "Rek#5081",
+  "zchannel": "compiledlogs",
+  "prefix": "?",
+  "modrole": "Moderator",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "discord.js": "^11.4.2",
+    "replace-in-file": "^3.4.3",
+    "rimraf": "^2.6.3",
+    "winston": "^3.2.1",
+    "zip-a-folder": "0.0.7"
+  }
+}
